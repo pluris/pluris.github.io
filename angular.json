@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "wish-mild-wind": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "wish-mild-wind"
+    }
+  },
+  "defaultProject": "wish-mild-wind",
+  "cli": {
+    "analytics": "fd7ff2cd-84a5-4b91-b7df-97d72be858d1"
+  }
 }
